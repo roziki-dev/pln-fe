@@ -5,7 +5,7 @@
 NodeJS v18.20.5 atau versi lebih baru
 ```
           
-## Cara Menjalankan
+## 💻 Cara Menjalankan
   
 ```bash
 npm run start
